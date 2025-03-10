@@ -38,7 +38,7 @@ Install GoLang (This was written on version 1.22.5 - check go.mod file for this 
 
 Clone this repo
 
-        git clone git@github.com:BadPixel89/labstats-definition-gemerator.git
+        git clone git@github.com:BadPixel89/labstats-definition-generator.git
 
 Open this in your IDE of choice and insert the URLs you need. Optionally wirte a name parsing function
 
